@@ -7,6 +7,9 @@ Rencana saya diumur 20thn
  ^Python
  ^Golang
 -saya bisa framework di bahasa pemograman
+ ^laravel
+ ^ReactJS
+ ^VueJS
 -saya bekerja freelance
 -saya bekerja di sebuah perusahaan dengan gaji diatas umr
 -saya lulus semerter dengan nilai terbaik
