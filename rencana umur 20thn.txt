@@ -1,4 +1,4 @@
-Rencana saya diumur 21thn
+Rencana saya diumur 20thn
 -saya akan membrangkatkan orang tua saya umroh
   *jika mampu
 -saya jago bahasa pemograman
@@ -7,8 +7,8 @@ Rencana saya diumur 21thn
  ^Python
  ^Golang
 -saya bisa framework di bahasa pemograman
--saya bekerja sebagai freelance dan juga berkerja di perusahaan terbesar diindonesia
--saya akan membeli mobil
+-saya bekerja freelance
+-saya bekerja di sebuah perusahaan dengan gaji diatas umr
 -saya lulus semerter dengan nilai terbaik
--memiliki tabungan lebih dari 50jt
+-memiliki tabungan lebih dari 20jt
 -saya memiliki usaha sendiri
